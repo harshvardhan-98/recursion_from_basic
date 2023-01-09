@@ -3,7 +3,7 @@ package com.knoldus;
 import java.util.Scanner;
 
 /**
- * Print your name times, without using loop;
+ * Print your name N times, without using loop;
  */
 public class Q1 {
 
