@@ -3,7 +3,7 @@ package com.knoldus;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Print all subsequences of array including empty sub-array.
+// Print all subsequences of array including empty sub-array,
 
 public class Q3 {
 
