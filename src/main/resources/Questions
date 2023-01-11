@@ -1,3 +1,7 @@
 Q1) Print your name N times, without using loop;
 
 Q2) Print numbers from 1 to N without the help of loops.
+
+Q3) Print all subsequences of array.
+
+Q4) Print all subsequences of array, whose sum is equal to the target sum.
