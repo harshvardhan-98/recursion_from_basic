@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q2 {
 
     /**
-     * The base case will be, if N becomes equal to zero, then  we will  return.
+     * The base case will be, if N becomes equal to zero, then  we will  return,
      *  otherwise we'll print the name, and again call the solve function.
      *
      *     <pre>
