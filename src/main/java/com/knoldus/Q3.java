@@ -3,6 +3,8 @@ package com.knoldus;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Print all subsequences of array including empty sub-array.
+
 public class Q3 {
 
     public static void solve(int ind, ArrayList<Integer> list, int ar[], int n){
